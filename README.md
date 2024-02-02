@@ -1,6 +1,6 @@
 Certainly! Let's break down the explanation of the provided Solidity code and create a README.
 
-### Project Title
+### Project Titles
 
 Advanced Smart Contract
 
